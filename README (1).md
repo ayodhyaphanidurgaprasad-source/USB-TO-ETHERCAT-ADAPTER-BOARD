@@ -19,8 +19,8 @@
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
     <p><strong>Name:</strong> A phani durga prasad </p>
-    <p><strong>Email ID:</strong> phanig6pvb@gmail.com </p>
-    <p><strong>College Name:</strong> JNTUK university of kakainada </p>
+    <p><strong>Email ID:</strong> phanig6pcb@gmail.com </p>
+    <p><strong>College Name:</strong> JNTUK university of kakinada </p>
     <p><strong>Branch/Specialization :</strong> electronics and communication engineering </p>
     <p><strong>College ID:</strong> VVGV </p>
 </div>
