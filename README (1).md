@@ -97,35 +97,33 @@ testing.
 
 ## **References**
 
-- [Wikipedia](https://wikipedia.com)
-<!--you can add refrences over here in same syntax as above -->
----
+- [Wikipedia]
+## **References**
+
+- [KiCad Documentation](https://docs.kicad.org/)
+- [EtherCAT Technology Group](https://www.ethercat.org/)
+- [USB Implementers Forum](https://www.usb.org/)
+- Datasheets and application notes of the electronic components used in the project.
+
 
 
 ## **Learnings from LST and SST**
 
-<!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
----
+LST – Life Skills Training
+Through LST sessions, I improved my self-confidence, time management, problem-solving, decision-making, teamwork, and positive attitude. These sessions helped me handle challenges and become more responsible in my professional life.
+SST – Soft Skills Training
+Through SST sessions, I improved my communication skills, English speaking, presentation skills, interpersonal skills, active listening, and interview skills. These sessions helped me communicate more confidently in the workplace.
+## **Community Services**
 
 ## **Community Services**
 
-<!-- add descreption in your own words -->
-
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
+During my internship, I participated in community service activities that helped me develop social responsibility, teamwork, and a willingness to support others.
 
 ### **Activities Involved**
-<!-- add the location where you given -->
-- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
-  
- <!-- add the location where you have panted -->
-- **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
 
-  <!-- add the location where you helped -->
-- **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
+- **Tree Plantation Drive** – Participated in tree planting and contributed to environmental awareness.
+- **Helping Elderly Citizens** – Assisted elderly people with simple daily activities.
 
-<!-- you can write impacts according to your experience in your words-->
 
 ### **Impact / Contribution**
 
@@ -161,7 +159,8 @@ The internship certificate serves as an official acknowledgment of the successfu
 
 ## **Acknowledgments**
 
-<!-- you can add Acknowledgments over here in same syntax as below . eg trainer name , company name , role etc -->
+sincerely thank SURE Trust and ProEd for providing me with the opportunity to complete my internship in PCB Designing.
+I am grateful to my trainers and mentors for their valuable guidance and support throughout the internship. I also thank the LST and SST trainers for helping me improve my life skills, communication, confidence, and professional skills.
 
 - [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/)
 
