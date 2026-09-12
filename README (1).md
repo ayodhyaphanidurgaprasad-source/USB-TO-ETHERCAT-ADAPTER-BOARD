@@ -63,7 +63,7 @@
 
 ## Overall Learning 
 
->Overall, this project was a valuable hands-on learning experience. 
+Overall, this project was a valuable hands-on learning experience. 
 It helped me connect the theoretical concepts of electronics and PCB 
 design with practical hardware development. I gained more confidence 
 in working with PCB design software and developed a better 
@@ -97,9 +97,6 @@ testing.
 
 ## **References**
 
-- [Wikipedia]
-## **References**
-
 - [KiCad Documentation](https://docs.kicad.org/)
 - [EtherCAT Technology Group](https://www.ethercat.org/)
 - [USB Implementers Forum](https://www.usb.org/)
@@ -113,8 +110,6 @@ LST – Life Skills Training
 Through LST sessions, I improved my self-confidence, time management, problem-solving, decision-making, teamwork, and positive attitude. These sessions helped me handle challenges and become more responsible in my professional life.
 SST – Soft Skills Training
 Through SST sessions, I improved my communication skills, English speaking, presentation skills, interpersonal skills, active listening, and interview skills. These sessions helped me communicate more confidently in the workplace.
-## **Community Services**
-
 ## **Community Services**
 
 During my internship, I participated in community service activities that helped me develop social responsibility, teamwork, and a willingness to support others.
@@ -147,7 +142,6 @@ During my internship, I participated in community service activities that helped
 
 ## **Certificate**
 
-The internship certificate serves as an official acknowledgment of the successful completion of my training period. It will be issued by the organization upon fulfilling all required tasks and meeting the performance expectations of the program. The certificate validates the skills, experience, and contributions made during the internship.
 
 <!-- add your certificate image url below (inside src='')-->
 
